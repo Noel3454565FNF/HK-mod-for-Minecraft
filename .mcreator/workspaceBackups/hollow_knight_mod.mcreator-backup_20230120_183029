@@ -1,0 +1,37 @@
+{
+  "mod_elements": [],
+  "variable_elements": [
+    {
+      "name": "Hollow_accept",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "hollow_knight_mod",
+    "modName": "Hollow Knight Mod",
+    "version": "1.0.0",
+    "author": "Noel3, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.hollowknightmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
